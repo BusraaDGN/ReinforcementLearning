@@ -6,6 +6,6 @@ As "7ech-Agents", we used Deep Q-Learning, one of the Reinforcement Learning alg
 
 <img src="https://github.com/BusraaDGN/ReinforcementLearning/blob/main/window.png" width="600" height="500">
 
-<img src="https://github.com/BusraaDGN/ReinforcementLearning/blob/main/flowcahart.png" width="600" height="500">
+<img src="https://github.com/BusraaDGN/ReinforcementLearning/blob/main/flowchart.png" width="600" height="500">
 
 ^_^ Dear team members: Büşra DOĞAN- Mert SÜLÜK – Büşra ALASYA –  Cemhan ŞENOL – Cihan ŞENOL –Emre KAYA – Alperen ERCAN
